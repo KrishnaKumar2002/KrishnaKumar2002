@@ -92,6 +92,16 @@
 </a>
 <a href="https://github.com/KrishnaKumar2002?tab=followers"><img src="https://img.shields.io/github/followers/KrishnaKumar2002?label=Followers&style=social" alt="GitHub Badge"></a>
 
+
+
+<!--
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KrishnaKumar2002&show_icons=true&locale=en&layout=compact" alt="KrishnaKumar2002" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KrishnaKumar2002&show_icons=true&locale=en" alt="KrishnaKumar2002" /></p>
+-->
+
+
+
+
 [youtube]: https://www.youtube.com/channel/UC97edBd_Z83NnLw36gKHeEQ
 [twitter]: https://twitter.com/krishnakumar_m_
 [linkedin]: https://www.linkedin.com/in/krishna-kumar-m
