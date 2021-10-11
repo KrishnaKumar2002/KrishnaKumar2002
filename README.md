@@ -1,6 +1,6 @@
 <!--### Hi there 👋-->
 
-### Hi there, I'm Krishna Kumar 👋 
+<h1><b>### Hi there, I'm Krishna Kumar 👋</b>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px"></h1>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/krishnakumar_m_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/krishnakumar_m_)
