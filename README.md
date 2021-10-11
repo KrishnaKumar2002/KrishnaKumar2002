@@ -15,12 +15,18 @@
 - 💻 I’m currently learning Front end development at Spotknack mission 2021.
 - 📫 How to reach me **krishnamanivannan2002@gmail.com**
 - ⚡ Fun fact: I love to read articles and cycling
+<br />
+
+<!--
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+-->
+
+
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
@@ -42,7 +48,7 @@
 </p>
 
 
-
+## 📊 My Github Stats
 ---
 [![Krishna Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaKumar2002)](https://github.com/KrishnaKumar2002/github-readme-stats)
 
@@ -51,6 +57,33 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaKumar2002&layout=compact)](https://github.com/KrishnaKumar2002/github-readme-stats)
 
 
+<a href="https://github.com/SubhamRaoniar28/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=SubhamRaoniar28&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<br/>
+
+<!--
+### Connect with me:
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+-->
+
+
+## Connect with me:
+<p align="left">
+<a href = "https://www.linkedin.com/in/krishna-kumar-m"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/krishnakumar_m_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/krishna_kumar._._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/UC97edBd_Z83NnLw36gKHeEQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+</p>
+
+
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=KrishnaKumar2002">
+</a>
+<a href="https://github.com/KrishnaKumar2002?tab=followers"><img src="https://img.shields.io/github/followers/KrishnaKumar2002?label=Followers&style=social" alt="GitHub Badge"></a>
 
 [youtube]: https://www.youtube.com/channel/UC97edBd_Z83NnLw36gKHeEQ
 [twitter]: https://twitter.com/krishnakumar_m_
