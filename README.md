@@ -48,6 +48,9 @@
 </p>
 
 
+ ![Snake animation](https://github.com/KrishnaKumar2002/KrishnaKumar2002/blob/output/github-contribution-grid-snake.svg)
+
+
 ## 📊 My Github Stats
 ---
 [![Krishna Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaKumar2002)](https://github.com/KrishnaKumar2002/github-readme-stats)
