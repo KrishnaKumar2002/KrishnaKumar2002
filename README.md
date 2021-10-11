@@ -48,7 +48,11 @@
 </p>
 
 
- ![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+
+<!--
+ ![Snake animation](https://github.com/KrishnaKumar2002/KrishnaKumar2002/blob/output/github-contribution-grid-snake.svg)
+-->
+<!--rafaballerini2-->
 
 
 ## 📊 My Github Stats
