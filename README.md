@@ -1,13 +1,17 @@
 <!--### Hi there 👋-->
 
-<h1><b>### Hi there, I'm Krishna Kumar 👋</b>
+<h1><b> Hi there, I'm Krishna Kumar 👋</b>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px"></h1>
+
+<img src="https://images.app.goo.gl/DPaSUz6CdVJy1CBg8" width="290px" height="250px" align="right" >
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/krishnakumar_m_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/krishnakumar_m_)
 ## I'm a Learner and Developer!!
+- 🎓I am a second year student at Government College Of Engineering, Salem. 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
+- 💻 I’m currently learning Front end development at Spotknack mission 2021.
 - ⚡ Fun fact: I love to read articles and cycling
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
