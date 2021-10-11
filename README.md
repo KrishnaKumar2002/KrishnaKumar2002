@@ -1,6 +1,7 @@
 <!--### Hi there 👋-->
 
-### Hi there, I'm Krishna Kumar 👋
+### Hi there, I'm Krishna Kumar 👋 
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px"></h1>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/krishnakumar_m_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/krishnakumar_m_)
 ## I'm a Learner and Developer!!
