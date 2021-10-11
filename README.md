@@ -3,7 +3,7 @@
 <h1><b> Hi there, I'm Krishna Kumar 👋</b>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50px" height="50px"></h1>
 
-<img src="https://images.app.goo.gl/DPaSUz6CdVJy1CBg8" width="290px" height="250px" align="right" >
+<img src="https://i.pinimg.com/736x/3f/13/57/3f1357daa60daa686dfef453dc31271b.jpg" width="290px" height="250px" align="right" >
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/krishnakumar_m_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/krishnakumar_m_)
 ## I'm a Learner and Developer!!
