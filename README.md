@@ -1,4 +1,49 @@
-### Hi there 👋
+<!--### Hi there 👋-->
+
+### Hi there, I'm Krishna Kumar 👋
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/krishnakumar_m_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/krishnakumar_m_)
+## I'm a Learner and Developer!!
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to read articles and cycling
+### Connect with me:
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
+### Languages and Tools:
+
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][github]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][github]
+
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][github]
+
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][github]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][github]
+
+<br />
+<br />
+
+---
+[![Krishna Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaKumar2002)](https://github.com/KrishnaKumar2002/github-readme-stats)
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaKumar2002&layout=compact)](https://github.com/KrishnaKumar2002/github-readme-stats)
+
+
+
+[youtube]: https://www.youtube.com/channel/UC97edBd_Z83NnLw36gKHeEQ
+[twitter]: https://twitter.com/krishnakumar_m_
+[linkedin]: https://www.linkedin.com/in/krishna-kumar-m
+[instagram]: https://www.instagram.com/krishna_kumar._._/
+[github]: https://github.com/KrishnaKumar2002
+
+
+
 
 <!--
 **KrishnaKumar2002/KrishnaKumar2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
