@@ -43,12 +43,32 @@
 <br />
 
 
+
+
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=KrishnaKumar2002&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
+</p>
+
+
+<p align=center >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaKumar2002" /> |
+</p>
+
+<h3 align="center">
+ Show some ❤️ by starring some of the repositories!
+</h3>
+
+
+
+
+<!--
 <p align="center">
     <a href="https://github.com/KrishnaKumar2002/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Krishna Kumar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaKumar2002&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
-
+-->
 
 
 <!--
@@ -95,6 +115,8 @@
 <a href="https://github.com/KrishnaKumar2002?tab=followers"><img src="https://img.shields.io/github/followers/KrishnaKumar2002?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
+
+<!--
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=KrishnaKumar2002&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
 </p>
@@ -107,7 +129,7 @@
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
 </h3>
-
+-->
 
 
 
