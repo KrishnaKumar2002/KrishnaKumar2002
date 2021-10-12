@@ -114,6 +114,8 @@
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=KrishnaKumar2002" />
 
+<codersrank-skills-chart username="KrishnaKumar2002"></codersrank-skills-chart>
+
 
 ## Connect with me:
 <p align="left">
