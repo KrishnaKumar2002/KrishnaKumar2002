@@ -89,9 +89,11 @@
 [![Krishna Kumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrishnaKumar2002)](https://github.com/KrishnaKumar2002/github-readme-stats)
 -->
 
-
+<p align=center>
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KrishnaKumar2002&layout=compact)](https://github.com/KrishnaKumar2002/github-readme-stats)
 
+</p>
 
 <a href="https://github.com/KrishnaKumar2002/github-readme-activity-graph"><img alt="Krishna Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KrishnaKumar2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
