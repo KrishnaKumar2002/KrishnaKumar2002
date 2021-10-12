@@ -115,13 +115,6 @@
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=KrishnaKumar2002" />
 
 
-
-<img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=KrishnaKumar2002"
-/>
-
-
-
 ## Connect with me:
 <p align="left">
 <a href = "https://www.linkedin.com/in/krishna-kumar-m"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
@@ -137,7 +130,9 @@
 </a>
 <a href="https://github.com/KrishnaKumar2002?tab=followers"><img src="https://img.shields.io/github/followers/KrishnaKumar2002?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=KrishnaKumar2002"
+/>
 
 <!--
 <p align="center">
