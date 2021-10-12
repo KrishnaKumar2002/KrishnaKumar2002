@@ -95,8 +95,12 @@
 
 </p>
 
+
+
 <a href="https://github.com/KrishnaKumar2002/github-readme-activity-graph"><img alt="Krishna Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KrishnaKumar2002&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
+
+
 
 <!--
 ### Connect with me:
@@ -106,6 +110,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
 -->
+
+
+<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=KrishnaKumar2002" />
 
 
 ## Connect with me:
