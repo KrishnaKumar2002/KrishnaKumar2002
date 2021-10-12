@@ -114,7 +114,10 @@
 
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=KrishnaKumar2002" />
 
-<codersrank-skills-chart username="KrishnaKumar2002"></codersrank-skills-chart>
+
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=KrishnaKumar2002&skills=HTML,CSS,PHP,Jupyter Notebook,JavaScript,TypeScript&show-other-skills=true"
+/>
 
 
 ## Connect with me:
