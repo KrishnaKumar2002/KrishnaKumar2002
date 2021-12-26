@@ -11,9 +11,9 @@
 - 🎓I am a second year student at Government College Of Technology, Coimbatore. 
 <!-- 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 🌱 I’m currently learning everything 🤣-->
-- 👯 I’m looking to collaborate with other content creators
+<!--- 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to **Open Source projects**
-- 💻 I’m currently learning Front end development at Spotknack mission 2021.
+- 💻 I’m currently learning Front end development at Spotknack mission 2021.-->
 - 📫 How to reach me **krishnamanivannan2002@gmail.com**
 - ⚡ Fun fact: I love to read articles and cycling
 <br />
@@ -113,7 +113,10 @@
 <a href = "https://twitter.com/krishnakumar_m_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/krishna_kumar._._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC97edBd_Z83NnLw36gKHeEQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-</p>
+<a href="https://medium.com/https://medium.com/@krishna_kumar_m"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@krishna_kumar_m"  height="40" width="50" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/krishnamanivann1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/krishnamanivann1" height="40" width="50" /></a>
+ 
+ </p>
 
 
 ## ❤ Views and Followers
@@ -143,6 +146,11 @@
 [instagram]: https://www.instagram.com/krishna_kumar._._/
 [github]: https://github.com/KrishnaKumar2002
 
+<!--
+<p align="left">
+<a href="https://medium.com/https://medium.com/@krishna_kumar_m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@krishna_kumar_m" height="30" width="40" /></a>
+</p>
+-->
 
 
 
