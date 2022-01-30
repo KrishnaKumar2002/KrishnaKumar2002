@@ -113,8 +113,8 @@
 <a href = "https://twitter.com/krishnakumar_m_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/krishna_kumar._._/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC97edBd_Z83NnLw36gKHeEQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href="https://medium.com/https://medium.com/@krishna_kumar_m"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@krishna_kumar_m"  height="40" width="50" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/krishnamanivann1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/krishnamanivann1" height="40" width="50" /></a>
+<a href="/https://medium.com/@krishna_kumar_m"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@krishna_kumar_m"  height="40" width="50" /></a>
+<a href="/https://www.hackerrank.com/krishnamanivann1"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/krishnamanivann1" height="40" width="50" /></a>
  
  </p>
 
