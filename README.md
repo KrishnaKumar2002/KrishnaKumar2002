@@ -51,7 +51,7 @@
 
 
 
-
+<!--
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=KrishnaKumar2002&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" />
 </p>
@@ -64,7 +64,7 @@
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
 </h3>
-
+-->
 
 
 
