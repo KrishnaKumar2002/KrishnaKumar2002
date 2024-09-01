@@ -131,10 +131,10 @@
 </a>
 <a href="https://github.com/KrishnaKumar2002?tab=followers"><img src="https://img.shields.io/github/followers/KrishnaKumar2002?label=Followers&style=social" alt="GitHub Badge"></a>
 
-<img
+<!--<img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=KrishnaKumar2002" width=600px 
 />
-
+-->
 
 
 
