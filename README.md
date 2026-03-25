@@ -8,7 +8,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/krishnakumar_m_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/krishnakumar_m_)
 ## I'm a Learner and Developer!!
-- 🎓I am a second year student at Government College Of Technology, Coimbatore. 
+- 🎓I am a Computer Science graduate from Government College Of Technology, Coimbatore (Anna University). 
 <!-- 🌱 I’m currently learning **Data Structures and Algorithms.**
 - 🌱 I’m currently learning everything 🤣-->
 <!--- 👯 I’m looking to collaborate with other content creators
