@@ -254,7 +254,7 @@ Jul–Sep 2022    │  🔶 Data Analyst Intern @ Siemens, Pune
 <a href="https://twitter.com/krishnakumar_m_">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/krishna_kumar._._/">
+<a href="https://www.instagram.com/kk_2k2/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 <a href="https://www.youtube.com/channel/UC97edBd_Z83NnLw36gKHeEQ">
@@ -269,7 +269,7 @@ Jul–Sep 2022    │  🔶 Data Analyst Intern @ Siemens, Pune
 <a href="https://krishna-kumar-portfolioshowcase.lovable.app">
   <img src="https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
-<a href="mailto:krishnamanivannan2002@gmail.com">
+<a href="mailto:cmkkcse@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
